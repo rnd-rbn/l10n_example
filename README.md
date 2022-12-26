@@ -1,16 +1,9 @@
-# l10n_example
+# Localization Example
 
-A new Flutter project. https://docs.flutter.dev/development/accessibility-and-localization/internationalization#setting-up
+Following the steps at https://docs.flutter.dev/development/accessibility-and-localization/internationalization#setting-up:
 
-## Getting Started
+> Try switching the target platform’s locale to Spanish (es) and notice that the messages should be localized.
 
-This project is a starting point for a Flutter application.
+But the text remains in English. I'm expecting Flutter to provide some kind of automatic translation.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![img.png](img.png)
